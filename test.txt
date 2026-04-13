@@ -1,1 +1,1 @@
-vless://b86259e6-aad7-4b7e-aeba-ad0079224de5@158.160.240.29:443?security=reality&type=xhttp&headerType=&path=&host=&flow=&mode=auto&sni=api-maps.yandex.ru&fp=&pbk=e_uuAKcJZND2h2M0LFxeglVgfk8Nh1_L_htyw8wc50s&sid=#w
+vless://b86259e6-aad7-4b7e-aeba-ad0079224de5@pidor.test:443?security=reality&type=xhttp&headerType=&path=&host=&flow=&mode=auto&sni=api-maps.yandex.ru&fp=&pbk=e_uuAKcJZND2h2M0LFxeglVgfk8Nh1_L_htyw8wc50s&sid=#w
